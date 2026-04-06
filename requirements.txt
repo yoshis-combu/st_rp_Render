@@ -1,3 +1,9 @@
 fastapi
 uvicorn
 pydantic
+line-bot-sdk
+requests
+yfinance
+pandas
+plotly
+python-dateutil
